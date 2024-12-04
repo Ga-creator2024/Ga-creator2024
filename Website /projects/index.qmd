@@ -1,0 +1,22 @@
+---
+title: Projects
+---
+
+## Impact of Insulin and Non-Insulin Diabetic Treatment on Cancer Incidence in Patients with Type 2 Diabetes 
+
+Currently as CasePREP Scholar, I work with Dr. Fred Schumacher in the Department of 
+Population and Quantitative Health Sciences (PQHS). In his research group, I analyze health informatics data from a global network of healthcare providers. My primary project investigates the impact of insulin and non-insulin treatments on cancer incidence in patients with type 2 diabetes (T2D). Using TriNetX, a real-world data network with clinical records from over 275 million patients, I compare the effects of GLP-1 receptor agonist with treatments like insulin and metformin.
+
+As of right now I have developed cohorts, formed hypotheses, and performed sex-stratified analysis, which revealed key differences that required further investigation. I am currently running my re-analysis based on sex and race. I am trying to see if Black and/or African-American males responded differently to the treatments compared to white males. In the future, I aim to look at age of onset. I think it would be interesting to see if there was difference between people below the age of 50, and those over 50+ taking different diabetes treatment. 
+
+
+----
+
+## Toxin Sequestration and Natural Predators of the Spotted Lanternfly 
+
+During the summer of 2023, I researched toxin sequestration and natural predators of the spotted lanternfly under the supervision of Dr. Kelli Hoover and her graduate student at Penn State University. Current methods to control spotted lanternflies (SLF) are harmful to the environment, so the goal of our experiment was to find natural predators to decrease the population of this invasive species. Finding natural predators for SLFs can be challenging because they have a defense mechanism called toxin sequestration that makes them taste unpalatable to predators. Based on prior research conducted by her graduate student, we found that various species of birds such as house wrens could be effective natural predators. We devised an experiment that observed if the birds could differentiate SLF reared from grapevines, meaning they have not undergone toxin sequestration, or SLF reared from the tree of heaven, meaning they have undergone toxin sequestration. We recorded their behaviors such as the birds eating the SLF, discarding the SLF, or feeding the SLF to their baby chicks. The results were not statistically significant, and we determined this could have been due to the small sample size. If I were still in this lab, I would continue collecting data on the bird's behavior to see if they were effective natural predators.
+
+
+## The Effect of Sucrose and Bacteria on the pH Levels of the Oral Cavity
+
+During my freshman year, I had my first exposure to research called the Freshman Research Initiative (FRI). It was the first time in my academic career that I was able to design my own experiment. I investigated the effect of sucrose and bacteria on the pH levels of the oral cavity. This experiment allowed me to develop skills such as PCR and DNA amplification. We used solid media plates to swab and collect data, and if the media plate was stored improperly, it led to the plate cracking. In conclusion, I was unable to harness enough data to gain accurate results. 

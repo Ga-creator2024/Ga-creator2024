@@ -1,0 +1,28 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/my_image.jpg"
+  links:
+
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/gabrielle-davis-1545432a3/
+    - icon: envelope
+      text: Email
+      href: "mailto:mail.gxd218@case.edu"  
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+Hello Everyone, 
+
+My name is Gabrielle Davis, and I am 22 years old. I am currently a Case PREP scholar here at Case Western Reserve University. My current research interest include diabetes, cancer, and health outcomes. This website contains my projects (past and present), a section about me, my CV, and my pets!
+
+Please feel free to [contact me](mailto:mail.gxd218@case.edu) if you would like to discuss my research! I would be more than happy to connect with anyone! 
+
+
+

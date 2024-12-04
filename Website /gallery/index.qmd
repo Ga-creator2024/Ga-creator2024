@@ -1,0 +1,22 @@
+---
+title: "My Pets"
+---
+
+I have two dogs. Piper (left) is our newest addition to the family. She has lots of energy, and we just ordered a DNA test to try and figure out her breed. She was reasuced from a farm, and she is very healthy now days! She LOVES to go to the dog park, and one of her quirks is barking at fake plants and random books in her free time. 
+
+
+To the right of piper, is our older dog Luna. She was my family's first puppy. Compared to Piper she is about 3 times smaller. Luna is very relaxed, and loves to cuddle. She is super friendly and will great any guest with lots of love! Luna's quirk is barking at the heater when its first turns on, and then lays next to it and takes a nap. 
+
+As of right now, the two dogs get along to some extent. They tend to bicker like any siblings. My family and I think that as time goes on, the sibling rivalry will decrease. 
+
+::: {layout-ncol=2}
+
+
+![](Piper.jpg)
+
+
+![](Luna.jpg)
+
+:::
+
+
